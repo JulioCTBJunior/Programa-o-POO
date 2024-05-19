@@ -1,0 +1,2 @@
+@DEL *.CLASS
+@DEL *.BAK
